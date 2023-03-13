@@ -18,7 +18,7 @@ module.exports = [
     {id: "red-crocus", name: "A Red crocus", nameGeo: "წითელი ზაფრანა", url: "https://iili.io/HXMvWH7.md.jpg" },
     {id: "blue-convolvulus-tricolor", name: "A blue convolvulus tricolor", nameGeo: "ლურჯი დილის ვარდი", url: "https://iili.io/HXMkw4p.jpg" },
     {id: "mushrooms", name: "Mushrooms", nameGeo: "სოკოები", url: "https://iili.io/HXMk0YP.md.jpg" },
-    {id: "cockroach2", name: "A cockroach", nameGeo: "ხოჭო", url: "https://iili.io/HXMkxY7.md.jpg" },
+    {id: "cockroach2", name: "A cockroach 2", nameGeo: "ხოჭო 2", url: "https://iili.io/HXMkxY7.md.jpg" },
     {id: "a-spider-and-a-rose", name: "A spider and a rose", nameGeo: "ობობა და ვარდი", url: "https://iili.io/HXMwies.jpg" },
     {id: "caterpillar1", name: "Caterpillar", nameGeo: "მატლი", url: "https://iili.io/HXMeikF.md.jpg" },
     {id: "view2", name: "A view", nameGeo: "ხედი", url: "https://iili.io/HXMeg1V.md.jpg" },
@@ -27,7 +27,7 @@ module.exports = [
     {id: "eryngium", name: "A Eryngium", nameGeo: "სეტერო ეკალი", url: "https://freeimage.host/i/20210702-200315.HXMhw41" },
     {id: "onion", name: "A onion", nameGeo: "ხახვი", url: "https://iili.io/HXMho2n.md.jpg" },
     {id: "small-tettigonioidea ", name: "A small tettigonioidea ", nameGeo: "პატარა კუტკალია", url: "https://iili.io/HXMh3IR.md.jpg" },
-    {id: "cockroach2", name: "A cockroach", nameGeo: "ხოჭო", url: "https://iili.io/HXMXrge.jpg" },
+    {id: "cockroach3", name: "A cockroach 3", nameGeo: "ხოჭო 3", url: "https://iili.io/HXMXrge.jpg" },
     {id: "view4", name: "A view 4", nameGeo: "ხედი 4", url: "https://iili.io/HXMXAf1.jpg" },
     {id: "snail", name: "A snail", nameGeo: "ლოკოკინა", url: "https://iili.io/HXMXoDQ.jpg" },
     {id: "flower4", name: "A flower 4", nameGeo: "ყვავილი 4", url: "https://iili.io/HXMWNoB.md.jpg" },
@@ -37,9 +37,9 @@ module.exports = [
     {id: "white-convolvulus-tricolor", name: "A white convolvulus tricolor", nameGeo: "თეთრი დილის ვარდი", url: "https://iili.io/HXMV6G9.md.jpg" },
     {id: "flower6", name: "A flower 6", nameGeo: "ყვავილი 6", url: "https://iili.io/HXMVAhB.md.jpg" },
     {id: "flower7", name: "A flower 7", nameGeo: "ყვავილი 7", url: "https://iili.io/HXMVvp4.jpg" },
-    {id: "flower7", name: "A flower 7", nameGeo: "ყვავილი 7", url: "https://iili.io/HXMVdml.jpg" },
     {id: "flower8", name: "A flower 8", nameGeo: "ყვავილი 8", url: "https://iili.io/HXMVJe4.jpg" },
     {id: "flower9", name: "A flower 9", nameGeo: "ყვავილი 9", url: "https://iili.io/HXMVH7f.md.jpg" },
+    {id: "flower10", name: "A flower 10", nameGeo: "ყვავილი 10", url: "https://iili.io/HXMVdml.jpg" },
     {id: "ladybug", name: "A ladybug", nameGeo: "ჭიამაია", url: "https://iili.io/HXMMaR4.md.jpg" },
 ]
 
