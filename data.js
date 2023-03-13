@@ -72,5 +72,7 @@ module.exports = [
     {id: "mouse", name: "A mouse", nameGeo: "თაგვი", url: "https://iili.io/HXMq7h7.md.jpg" },
     {id: "gray-mantis", name: "A gray mantis", nameGeo: "ნაცრისფერი ჩოქელა", url: "https://iili.io/HXMqxrG.md.jpg" },
     {id: "view8", name: "A view 8", nameGeo: "ხედი 8", url: "https://iili.io/HXMqddv.md.jpg" }
+    {id: "puppy-and-cat", name: "A puppy and a cat", nameGeo: "ლეკვი და კატა", url: "https://iili.io/HXXFzHx.md.jpg" }
+
 ]
 
