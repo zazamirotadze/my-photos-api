@@ -24,7 +24,7 @@ module.exports = [
     {id: "view2", name: "A view", nameGeo: "ხედი", url: "https://iili.io/HXMeg1V.md.jpg" },
     {id: "flower3", name: "A flower", nameGeo: "ყვავილი", url: "https://iili.io/HXMwTs2.md.jpg" },
     {id: "view3", name: "A view", nameGeo: "ხედი", url: "https://iili.io/HXMh6GI.jpg" },
-    {id: "eryngium", name: "A Eryngium", nameGeo: "სეტერო ეკალი", url: "https://freeimage.host/i/20210702-200315.HXMhw41" },
+    {id: "eryngium", name: "A Eryngium", nameGeo: "სეტერო ეკალი", url: "https://iili.io/HXMhw41.md.jpg" },
     {id: "onion", name: "A onion", nameGeo: "ხახვი", url: "https://iili.io/HXMho2n.md.jpg" },
     {id: "small-tettigonioidea ", name: "A small tettigonioidea ", nameGeo: "პატარა კუტკალია", url: "https://iili.io/HXMh3IR.md.jpg" },
     {id: "cockroach3", name: "A cockroach 3", nameGeo: "ხოჭო 3", url: "https://iili.io/HXMXrge.jpg" },
