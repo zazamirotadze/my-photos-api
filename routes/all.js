@@ -1,9 +1,9 @@
 const express = require('express')
 const router = express.Router()
-const data = require("../data")
+const allData = require("../data/allData")
 
 router.get("/all", (req, res) => {
-    res.send(data);
+    res.send(allData);
 })
 
 module.exports = router
