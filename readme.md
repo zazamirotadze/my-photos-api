@@ -10,6 +10,8 @@ Routes ( მარშუტები ) :
 
     /data/:id - current item data (მიმდინარე ნივთის მონაცემები)
 
+    /all -  all Item data ( ყველა ნივთის მონაცემი)
+
     /flowers - flowers data (ყვავილების მონაცემები)
 
     /views - views data (ხედების მონაცემები)
