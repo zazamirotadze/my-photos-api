@@ -20,5 +20,6 @@ Routes ( მარშუტები ) :
 
     /other - other data (სხვა მონაცემები)
 
-Now, nstead of hardcoded data I have data from mongodb.
-ახლა "ხელით ჩაწერილი" მონაცემების ნაცვლად მე მაქვს მონაცემები მონგოდბს მონაცემთა ბაზიდან
+Now, intead of hardcoded data I have data from mongodb.
+
+(ახლა, "ხელით ჩაწერილი" მონაცემების ნაცვლად მე მაქვს მონაცემები მონგოს მონაცემთა ბაზიდან)
