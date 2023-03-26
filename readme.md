@@ -1,6 +1,6 @@
 #my-photos-api
 
-An express api ( ექსპრესის დაპროგრამებული მონაცემები. )
+An express-mongodb api ( ექსპრესი - მონგოს მონაცემთა ბაზის დაპროგრამებული მონაცემები. )
 
 live link (ლაივის ლინკი) - https://gold-angry-earthworm.cyclic.app.
 
@@ -19,3 +19,6 @@ Routes ( მარშუტები ) :
     /theKingdomAnimalia - the Kingdom Animalia data (ცხოველთა სამეფოს მონაცემები)
 
     /other - other data (სხვა მონაცემები)
+
+Now, nstead of hardcoded data I have data from mongodb.
+ახლა "ხელით ჩაწერილი მონაცემების ნაცვლად მე მაქვს მონაცემები მონგოდბს მონაცემთაბაზიდან
