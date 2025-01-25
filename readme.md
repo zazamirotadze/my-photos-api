@@ -1,8 +1,6 @@
-#my-photos-api
+#my-photos-api - ჩემი სურათების გამოყენებითი პროგრამების ინტერფეისი
 
-An express-mongodb api ( ექსპრესი - მონგოს მონაცემთა ბაზის დაპროგრამებული მონაცემები. )
-
-live link (ლაივის ლინკი) - https://gold-angry-earthworm.cyclic.app.
+live link (ლაივის ლინკი) - https://my-photos-api.onrender.com
 
 Routes ( მარშუტები ) :
 
@@ -19,5 +17,3 @@ Routes ( მარშუტები ) :
     /theKingdomAnimalia - the Kingdom Animalia data (ცხოველთა სამეფოს მონაცემები)
 
     /other - other data (სხვა მონაცემები)
-
-
